@@ -1,4 +1,5 @@
-## Available Diets
+
+## List of Diets
 
 ### Juice Cleanse
 
